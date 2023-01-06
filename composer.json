@@ -1,0 +1,23 @@
+{
+  "name": "kuvardin/skidki",
+  "type": "project",
+  "require": {
+    "kuvardin/fast-mysqli": " dev-master",
+    "kuvardin/data-filter": " dev-master",
+    "kuvardin/telegram-bots-api": " dev-main",
+    "guzzlehttp/guzzle": "^7.5",
+    "kuvardin/telegram-bots-api-lite": " dev-main",
+    "ext-mbstring": "*",
+    "ext-dom": "*",
+    "kuvardin/fields-scanner": " dev-main",
+    "ext-mysqli": "*",
+    "robmorgan/phinx": "^0.13.1",
+    "firebase/php-jwt": "^6.3",
+    "ext-iconv": "*",
+    "ext-fileinfo": "*",
+    "ext-ctype": "*",
+    "ext-gd": "*",
+    "kuvardin/double-gis": " dev-main",
+    "phpoffice/phpspreadsheet": "^1.25"
+  }
+}
